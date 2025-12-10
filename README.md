@@ -3,4 +3,4 @@ Git course!
 
 ## Subheader
 
-Terminal de VSCode
+Terminal de VSCode, adición
